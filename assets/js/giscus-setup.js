@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "KathCYM/kathchoi",
+    "data-repo": "KathCYM/kathchoi.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
