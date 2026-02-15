@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kathchoi.github.io/sitemap.xml
+Sitemap: https://kathcym.github.io/sitemap.xml
