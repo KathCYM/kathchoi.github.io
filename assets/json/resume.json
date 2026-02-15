@@ -1,17 +1,17 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Yee Man (Kath) Choi",
+    "label": "PhD Student",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ymchoi@uwaterloo.ca",
+    "phone": "",
+    "summary": "A first-year PhD student in David R. Cheriton School of Computer Science at the University of Waterloo, co-supervised by Prof. Freda Shi and Prof. Krzysztof Czarnecki.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "200 Ring Rd",
+      "postalCode": "ON N2L 5Z5",
+      "city": "Waterloo",
+      "countryCode": "CA",
+      "region": "Ontario"
     },
     "profiles": []
   },
