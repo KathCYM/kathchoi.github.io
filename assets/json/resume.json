@@ -17,13 +17,13 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
+      "name": "Carnegie Mellon University",
+      "position": "Graduate Research Assistant",
+      "location": "Pittsburgh, PA",
+      "startDate": "2025-01-13",
+      "endDate": "2025-05-13",
+      "summary": "Teaching 11868 Large Language Model Systems and working on code generation project (HardTestGen) under the supervision of Prof. Lei Li ",
+      "highlights": ["Large Language Model Systems", "HardTestGen"]
     },
     {
       "name": "California Institute of Technology",
