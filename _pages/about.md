@@ -19,10 +19,10 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+#latest_posts:
+#  enabled: true
+#  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#  limit: 3 # leave blank to include all the blog posts
 ---
 
 Greetings! My name is Yee Man Choi (you are also welcome to call me Kath). I am an PhD Student at the David R. Cheriton School of Computer Science, University of Waterloo. I am fortunate to be co-supervised by Professors [Freda Shi](https://cs.uwaterloo.ca/~fhs/) and [Krzysztof Czarnecki](https://uwaterloo.ca/electrical-computer-engineering/profile/k2czarne). I completed my M.S. degrees at [Carnegie Mellon University](https://www.lti.cs.cmu.edu/), where I was advised by Professor [Lei Li](https://lileicc.github.io/). Prior to that, I received my BASc of Computer Engineering from the University of Toronto, St. George Campus, with a minor in Artificial Intelligence. 
